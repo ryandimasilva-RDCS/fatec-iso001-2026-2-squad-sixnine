@@ -1,0 +1,26 @@
+=== USUARIO ===
+codespace
+uid=1000(codespace) gid=1000(codespace) groups=1000(codespace),985(pipx),986(python),987(oryx),988(golang),989(docker),990(sdkman),991(rvm),992(php),993(conda),994(nvs),995(nvm),996(hugo),1001(ssh)
+=== KERNEL ===
+6.8.0-1064-azure
+=== DISTRIBUICAO ===
+=== MEMORIA ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.9Gi       311Mi        62Mi       5.9Gi       5.8Gi
+Swap:             0B          0B          0B
+=== DISCO DO PROJETO ===
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/loop4       32G  9.7G   21G  33% /workspaces
+=== PROCESSOS ===
+    PID    PPID STAT %CPU %MEM COMMAND
+    585     543 Sl    2.0  4.1 MainThread
+    543     534 Sl    0.5  1.9 MainThread
+   1073     543 Sl    0.2  0.9 MainThread
+   1049     599 Sl    0.1  3.3 MainThread
+    599     543 Sl    0.1  1.6 MainThread
+     58       1 Sl    0.0  1.0 dockerd
+     72      58 Ssl   0.0  0.6 containerd
+   5292    1073 Ss    0.0  0.1 bash
+      7       1 S     0.0  0.0 sh
+    600     543 Sl    0.0  0.7 MainThread
+      1       0 Ss    0.0  0.0 docker-init
