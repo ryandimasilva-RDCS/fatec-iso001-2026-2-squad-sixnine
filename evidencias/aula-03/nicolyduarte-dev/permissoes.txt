@@ -1,0 +1,4 @@
+]633;E;echo "=== PERMISSOES ===";e4456427-4218-4ada-864d-da81248bdc07]633;C=== PERMISSOES ===
+---------- 1 codespace codespace 34 Sep 19 02:25 laboratorio/nicolyduarte-dev/segredo.txt
+=== TENTATIVA DE LEITURA ===
+cat: laboratorio/nicolyduarte-dev/segredo.txt: Permission denied
