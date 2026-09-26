@@ -1,0 +1,4 @@
+]633;E;echo "=== PERMISSOES ===";0f9c6d5a-b040-4999-a06a-a6fd875abf60]633;C=== PERMISSOES ===
+---------- 1 codespace codespace 24 Aug 23 05:09 laboratorio/segredo.txt
+=== TENTATIVA DE LEITURA ===
+cat: laboratorio/segredo.txt: Permission denied

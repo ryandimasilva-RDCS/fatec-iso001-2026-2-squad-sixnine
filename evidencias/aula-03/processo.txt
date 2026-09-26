@@ -1,0 +1,33 @@
+=== INICIO ===
+PID=28855
+=== PS ===
+    PID    PPID STAT  NI COMMAND
+  28855   28852 S+     0 sleep
+=== /proc/28855/status ===
+Name:	sleep
+Umask:	0022
+State:	S (sleeping)
+Tgid:	28855
+Ngid:	0
+Pid:	28855
+PPid:	28852
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	256
+Groups:	985 986 987 988 989 990 991 992 993 994 995 996 1000 1001 
+NStgid:	28855
+NSpid:	28855
+NSpgid:	28852
+NSsid:	1468
+Kthread:	0
+VmPeak:	    6116 kB
+VmSize:	    6116 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    1956 kB
+VmRSS:	    1956 kB
+RssAnon:	     116 kB
+RssFile:	    1840 kB
+=== ENCERRANDO ===
+    PID TTY          TIME CMD

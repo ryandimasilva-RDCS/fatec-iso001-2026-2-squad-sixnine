@@ -1,0 +1,17 @@
+flowchart LR
+
+    U[Usuário] --> FE[Frontend]
+
+    subgraph SO[Ambiente de Execução - Sistema Operacional]
+
+        FE --> BE[Backend]
+
+        BE --> DB[(Banco de Dados)]
+
+        BE --> LOG[Logs e Monitoramento]
+
+        BE --> FS[(Storage de Arquivos)]
+
+        FS --> PERM[Filesystem e Permissões]
+
+    end
